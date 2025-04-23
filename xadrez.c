@@ -10,7 +10,7 @@ int main(){
     
 
 
-    printf("\n\nMOVIMENTO DA TORRE\n\n");
+    printf("\n\nMOVIMENTOS DA TORRE\n\n");
 //MOVIMENTO DA TORRE
 while (casastorre <= 5)
 {
@@ -21,7 +21,7 @@ while (casastorre <= 5)
 
 
 
-printf("\n\nMOVIMENTO DO BISPO\n\n");
+printf("\n\nMOVIMENTOS DO BISPO\n\n");
 //MOVIMENTO DO BISPO
 do
 {
@@ -33,7 +33,7 @@ do
 
 
 
-printf("\n\nMOVIMENTO DA RAINHA\n\n");
+printf("\n\nMOVIMENTOS DA RAINHA\n\n");
 //MOVIMENTO DA RAINHA
 for (int casasrainha = 1; casasrainha <= 8; casasrainha++)
 {
