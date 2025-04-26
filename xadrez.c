@@ -43,6 +43,28 @@ for (int casasrainha = 1; casasrainha <= 8; casasrainha++)
 }
 
 
+
+//MOVIMENTO DO CAVALO
+printf("\nMOVIMENTO DO CAVALO\n");
+
+int j = 1;//RESERVANDO VARIAVEL
+
+for (int i = 1; i <= 1; i++) //LOOP QUE CONTROLA O MOVIMENTO PERPENDICULAR
+{
+
+    while (j <= 2) // LOOP QUE CONTROLA O MOVIMENTO RETO
+    {
+        printf("\nBaixo");       
+        j++;
+    }      
+    
+    printf("\nEsquerda\n");
+
+}
+
+
+
+
 return 0;
 
 
